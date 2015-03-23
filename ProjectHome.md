@@ -1,0 +1,1 @@
+Eight week class with Labs for weeks 1-7.  This is version control for those labs and to see if I can share this.
